@@ -105,5 +105,5 @@ update the DH parameters of the link configuration and end effector configuratio
 
 
 
-### RESULTS : 
+# RESULT : 
 The inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer has been analyzed.
