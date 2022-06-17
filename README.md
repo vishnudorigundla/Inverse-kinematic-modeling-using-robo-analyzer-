@@ -36,19 +36,25 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
+
 STEP 1:
+
 open the roboanalyzer software.
 
 STEP 2:
+
 select the robot and its degrees of freedom.
 
 STEP 3:
+
 change the values of X and Y wherever necessary.
 
 STEP 4:
+
 simulate the model for inverse kinematics.
 
 STEP 5:
+
 update the DH parameters of the link configuration and end effector configuration.
 
 
@@ -58,8 +64,9 @@ update the DH parameters of the link configuration and end effector configuratio
 
 
 ### SIMULATION :
-
+### 3R PLANAR :
  ![5](https://user-images.githubusercontent.com/94175324/174304647-af3aef08-d09b-4f1b-a45f-d824dc826a76.png)
+ ### 3R ARTICULATED :
 ![5 1](https://user-images.githubusercontent.com/94175324/174304693-d14a2484-b5bd-44f6-ab33-4c63a2ddccee.png)
 
  
